@@ -24,6 +24,8 @@ Face recognition source
 
 [基于特征脸的人脸识别及实现.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E7%89%B9%E5%BE%81%E8%84%B8%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%8F%8A%E5%AE%9E%E7%8E%B0.pdf)
 
+[基于视频的人脸识别研究进展.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
+
 
 License
 --------
@@ -42,7 +44,6 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[基于视频的人脸识别研究进展.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
 
 
