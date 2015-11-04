@@ -4,7 +4,7 @@ Face-recognition
 Glide is a fast and efficient open source media management and image loading framework for Android that wraps media
 decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
 
-![](static/glide_logo.png)
+![](https://github.com/msAndroid/Face-recognition/blob/master/img/face.png)
 
 Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs. Glide includes a flexible API
 that allows developers to plug in to almost any network stack. By default Glide uses a custom `HttpUrlConnection` based
