@@ -1,11 +1,9 @@
 # Face-recognition
 Face recognition source
 
-###WebSite(Being Updated)
+###Library(Being Updated)
 
-[OpenCV](http://opencv.org/)
-
-><img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="150"/>
+[OpenCV](http://opencv.org/) <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="150"/>
 
 [Face++]()
 
