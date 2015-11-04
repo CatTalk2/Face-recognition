@@ -1,7 +1,8 @@
 # Face-recognition
 Face recognition source
 
-###Library(Being Updated)
+
+### Library
 
  <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="80"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/facepp_inside.png" alt="Drawing"  width="200"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/kedaxunfei.png" alt="Drawing" />　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/face.png" alt="Drawing" width="160"/>
 
@@ -13,7 +14,7 @@ Face recognition source
 * [OpenCV入门教程.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/OpenCV%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.pdf)
 
 
-###Paper(Being Updated)
+### Paper
 
 * [Face Recognition Based on DCT and LDA.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/Face%20Recognition%20Based%20on%20DCT%20and%20LDA.pdf)
 
