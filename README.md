@@ -2,15 +2,14 @@
 Face recognition source
 
 
-### Library
 
+Library
 --------
-
  <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="80"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/facepp_inside.png" alt="Drawing"  width="200"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/kedaxunfei.png" alt="Drawing" />　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/face.png" alt="Drawing" width="160"/>
 
 [OpenCV](http://opencv.org/)　　　[Face++](http://www.faceplusplus.com.cn/)　　　　　　　　　　　　[科大讯飞开放平台](http://www.xfyun.cn/)　　　　　　　　[Others](http://www.open-open.com/lib/view/open1415669593977.html)
 
-### Tutorial
+Tutorial
 --------
 * [OpenCV入门教程.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/OpenCV%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.pdf)
 
@@ -18,7 +17,7 @@ Face recognition source
 
 * [教研究生學opencv](http://www.cmlab.csie.ntu.edu.tw/~jsyeh/wiki/doku.php?id=%E8%91%89%E6%AD%A3%E8%81%96%E8%80%81%E5%B8%AB:%E6%95%99%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%B8opencv)
 
-### Paper
+Paper
 --------
 * [Face Recognition Based on DCT and LDA.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/Face%20Recognition%20Based%20on%20DCT%20and%20LDA.pdf)
 
