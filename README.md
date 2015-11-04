@@ -3,7 +3,7 @@ Face recognition source
 
 ###Library(Being Updated)
 
- <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="80"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/facepp_inside.png" alt="Drawing"  width="200"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/kedaxunfei.png" alt="Drawing" />
+ <img src="https://github.com/msAndroid/Face-recognition/blob/master/img/opencv.png" alt="Drawing"  width="80"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/facepp_inside.png" alt="Drawing"  width="200"/>　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/kedaxunfei.png" alt="Drawing" />　　<img src="https://github.com/msAndroid/Face-recognition/blob/master/img/face.png" alt="Drawing" />
 
 [OpenCV](http://opencv.org/)　　　[Face++](http://www.faceplusplus.com.cn/)　　　　　　　　　　　　[科大讯飞开放平台](http://www.xfyun.cn/)
 
