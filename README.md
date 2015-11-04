@@ -24,6 +24,24 @@ Face recognition source
 
 [基于特征脸的人脸识别及实现.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E7%89%B9%E5%BE%81%E8%84%B8%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E5%8F%8A%E5%AE%9E%E7%8E%B0.pdf)
 
+
+License
+--------
+
+    Copyright 2015 florent37, Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
 [基于视频的人脸识别研究进展.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
 
