@@ -1,6 +1,8 @@
 Face-recognition
 =====
 
+A facial recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a facial database.
+
 Glide is a fast and efficient open source media management and image loading framework for Android that wraps media
 decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
 
