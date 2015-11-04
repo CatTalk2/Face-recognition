@@ -3,17 +3,11 @@ Face-recognition
 
 A facial recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from a video source. One of the ways to do this is by comparing selected facial features from the image and a facial database.
 
-Glide is a fast and efficient open source media management and image loading framework for Android that wraps media
-decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
-
 　　　　　　　　　　　![](https://github.com/msAndroid/Face-recognition/blob/master/img/face.png)
 
-Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs. Glide includes a flexible API
-that allows developers to plug in to almost any network stack. By default Glide uses a custom `HttpUrlConnection` based
-stack, but also includes utility libraries plug in to Google's Volley project or Square's OkHttp library instead.
+There are some Libraries and papers about it.
 
-Glide's primary focus is on making scrolling any kind of a list of images as smooth and fast as possible, but Glide is
-also effective for almost any case where you need to fetch, resize, and display a remote image.
+If you are interested in this, you can follow and pull requests, wish you can add more and more souce about face-recoginition
 
 
 
