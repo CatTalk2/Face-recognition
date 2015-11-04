@@ -7,7 +7,7 @@ A facial recognition system is a computer application capable of identifying or 
 
 There are some Libraries and papers about it.
 
-If you are interested in this, you can follow and pull requests. We can try to make it more perfect.
+If you are interested in this, you can follow and pull your requests. We can try to make it more perfect.
 
 Library
 --------
