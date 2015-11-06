@@ -38,13 +38,40 @@ Paper
 
 * [基于视频的人脸识别研究进展.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
-* []()
+* [Android平台实时人脸检测和性别识别的研究与实现_余彧.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/Android平台实时人脸检测和性别识别的研究与实现_余彧.pdf)
 
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Android系统下OpenCV的人脸检测模块的设计_公衍宇.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/Android系统下OpenCV的人脸检测模块的设计_公衍宇.pdf)
+
+* [人脸识别在Android平台下的研究与实现_宋帅杨.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/人脸识别在Android平台下的研究与实现_宋帅杨.caj)
+
+* [基于Android平台人脸识别系统的设计与实现_刘超.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于Android平台人脸识别系统的设计与实现_刘超.caj)
+
+* [基于Android平台大规模人脸识别系统研究与实现_蒋卓轩.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于Android平台大规模人脸识别系统研究与实现_蒋卓轩.caj)
+
+* [基于Android平台的人脸检测与识别研究及实现_吕伟.caj](https://github.com/msAndroid/Face-recognition/tree/master/source)
+
+* [基于Android平台的人脸特征点定位算法的研究与实现_姜浩.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于Android平台的人脸特征点定位算法的研究与实现_姜浩.caj)
+
+* [基于Android系统的人脸识别系统_赵桂茹.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/基于Android系统的人脸识别系统_赵桂茹.pdf)
+
+* [基于Hadoop平台的失踪乞讨儿童检索系统的设计与实现_陈飞.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于Hadoop平台的失踪乞讨儿童检索系统的设计与实现_陈飞.caj)
+
+* [基于OpenCV在Android平台下实现人脸识别_聂鹏鹏.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/基于OpenCV在Android平台下实现人脸识别_聂鹏鹏.pdf)
+
+* [基于云计算的人脸识别系统研究与实现_李仕钊.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于云计算的人脸识别系统研究与实现_李仕钊.caj)
+
+* [基于云计算的人脸识别系统研究与设计_吕联盟.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于云计算的人脸识别系统研究与设计_吕联盟.caj)
+
+* [基于云计算的手机移动端人脸图像解析系统_李二郎.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/基于云计算的手机移动端人脸图像解析系统_李二郎.caj)
+
+* [大规模数据库移动人脸识别系统概述_李耀敏.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/大规模数据库移动人脸识别系统概述_李耀敏.pdf)
+
+* [手机人脸识别在建筑施工远程考勤中的应用研究_吴迪.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/手机人脸识别在建筑施工远程考勤中的应用研究_吴迪.caj)
+
+* [移动计算环境下分布式人脸检测与识别系统的研究与实现_刘耀星.caj](https://github.com/msAndroid/Face-recognition/blob/master/source/移动计算环境下分布式人脸检测与识别系统的研究与实现_刘耀星.caj)
+
+
+* ...
 
 License
 --------
