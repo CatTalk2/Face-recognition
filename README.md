@@ -38,7 +38,13 @@ Paper
 
 * [基于视频的人脸识别研究进展.pdf](https://github.com/msAndroid/Face-recognition/blob/master/source/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
-* ...
+* []()
+
+* []()
+* []()
+* []()
+* []()
+* []()
 
 License
 --------
