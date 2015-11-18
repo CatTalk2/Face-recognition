@@ -1,0 +1,9 @@
+1，xiaoshengforever的专栏 http://blog.csdn.net/xiaoshengforever/article/category/1574161
+2，人脸识别之特征脸方法 http://blog.csdn.net/zouxy09/article/details/45276053/
+3，PCA 的具体实现 （Eigenfaces特征脸）http://blog.csdn.net/xiaoshengforever/article/details/13041753
+4，怎样使用OpenCV进行人脸识别 http://www.cnblogs.com/guoming0000/archive/2012/09/27/2706019.html
+5，基于 OpenCV 的人脸识别 http://www.objccn.io/issue-21-9/
+6，OpenCV实现人脸检测 http://www.cnblogs.com/mengdd/archive/2012/08/01/2619043.html
+7， 人脸识别(重点推荐) http://blog.csdn.net/abcjennifer/article/details/20396869
+8，Introduction to Face Detection and Face Recognition: http://www.shervinemami.info/faceRecognition.html
+9，专栏：OpenCV学习笔记 http://blog.csdn.net/column/details/opencv-manual.html
