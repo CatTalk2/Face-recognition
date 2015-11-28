@@ -77,6 +77,8 @@ Paper
 
 Blog
 --------
+* [An Introduction to Face Detection on Android](http://code.tutsplus.com/tutorials/an-introduction-to-face-detection-on-android--cms-25212)
+
 * [xiaoshengforever的专栏] (http://blog.csdn.net/xiaoshengforever/article/category/1574161)
 
 * [人脸识别之特征脸方法] (http://blog.csdn.net/zouxy09/article/details/45276053/)
